@@ -1,0 +1,2 @@
+NAME=wxpay
+BUILDDIR=/dev/shm/$(NAME-LINK)
